@@ -1,0 +1,2 @@
+Invoking command in '/home/badri/new_ws/build/mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake /home/badri/new_ws/src/mapping -DCMAKE_INSTALL_PREFIX=/home/badri/new_ws/install/mapping
+Invoked command in '/home/badri/new_ws/build/mapping' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake /home/badri/new_ws/src/mapping -DCMAKE_INSTALL_PREFIX=/home/badri/new_ws/install/mapping
