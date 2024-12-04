@@ -1,6 +1,9 @@
 /home/badri/new_ws/install/mapping/share/mapping/launch/bringup.launch.py
 /home/badri/new_ws/install/mapping/share/mapping/launch/3d_map.launch.py
 /home/badri/new_ws/install/mapping/share/mapping/worlds/maze1.world
+/home/badri/new_ws/install/mapping/share/mapping/map/maze_map.pgm
+/home/badri/new_ws/install/mapping/share/mapping/map/map_3d.ply
+/home/badri/new_ws/install/mapping/share/mapping/map/maze_map.yaml
 /home/badri/new_ws/install/mapping/share/ament_index/resource_index/package_run_dependencies/mapping
 /home/badri/new_ws/install/mapping/share/ament_index/resource_index/parent_prefix_path/mapping
 /home/badri/new_ws/install/mapping/share/mapping/environment/ament_prefix_path.sh

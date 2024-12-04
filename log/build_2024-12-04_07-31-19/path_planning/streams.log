@@ -1,0 +1,39 @@
+[0.056s] Invoking command in '/home/badri/new_ws/build/path_planning': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --build /home/badri/new_ws/build/path_planning -- -j8 -l8
+[0.283s] [  5%] [32mBuilding CXX object CMakeFiles/occupancy_grid_node.dir/src/occupancy_grid.cpp.o[0m
+[0.285s] [ 15%] Built target gtest
+[0.285s] [ 25%] Built target algo_grid_sweep
+[0.288s] [ 35%] Built target gtest_main
+[0.301s] [ 45%] Built target algo_astar
+[0.301s] [ 55%] Built target rrt_node
+[0.358s] [ 65%] Built target algo_rrt
+[0.371s] [ 75%] Built target test_rrt_node
+[0.420s] [ 85%] Built target test_rrt
+[0.422s] [ 95%] Built target path_planning_node
+[6.458s] [100%] [32m[1mLinking CXX executable occupancy_grid_node[0m
+[7.047s] [100%] Built target occupancy_grid_node
+[7.066s] Invoked command in '/home/badri/new_ws/build/path_planning' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --build /home/badri/new_ws/build/path_planning -- -j8 -l8
+[7.265s] Invoking command in '/home/badri/new_ws/build/path_planning': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --install /home/badri/new_ws/build/path_planning
+[7.304s] -- Install configuration: ""
+[7.305s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/launch
+[7.305s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/launch/path_plan_rviz.launch.py
+[7.306s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/config
+[7.306s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/config/search_path_planning.rviz
+[7.307s] -- Installing: /home/badri/new_ws/install/path_planning/lib/path_planning/occupancy_grid_node
+[7.313s] -- Set runtime path of "/home/badri/new_ws/install/path_planning/lib/path_planning/occupancy_grid_node" to ""
+[7.315s] -- Up-to-date: /home/badri/new_ws/install/path_planning/lib/path_planning/path_planning_node
+[7.316s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/ament_index/resource_index/package_run_dependencies/path_planning
+[7.318s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/ament_index/resource_index/parent_prefix_path/path_planning
+[7.318s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/environment/ament_prefix_path.sh
+[7.319s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/environment/ament_prefix_path.dsv
+[7.320s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/environment/path.sh
+[7.321s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/environment/path.dsv
+[7.322s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/local_setup.bash
+[7.322s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/local_setup.sh
+[7.323s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/local_setup.zsh
+[7.323s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/local_setup.dsv
+[7.323s] -- Installing: /home/badri/new_ws/install/path_planning/share/path_planning/package.dsv
+[7.324s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/ament_index/resource_index/packages/path_planning
+[7.324s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/cmake/path_planningConfig.cmake
+[7.324s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/cmake/path_planningConfig-version.cmake
+[7.325s] -- Up-to-date: /home/badri/new_ws/install/path_planning/share/path_planning/package.xml
+[7.331s] Invoked command in '/home/badri/new_ws/build/path_planning' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --install /home/badri/new_ws/build/path_planning

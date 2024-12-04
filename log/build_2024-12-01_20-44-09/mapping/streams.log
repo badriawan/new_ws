@@ -1,0 +1,29 @@
+[0.026s] Invoking command in '/home/badri/new_ws/build/mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --build /home/badri/new_ws/build/mapping -- -j8 -l8
+[0.109s] Invoked command in '/home/badri/new_ws/build/mapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --build /home/badri/new_ws/build/mapping -- -j8 -l8
+[0.198s] Invoking command in '/home/badri/new_ws/build/mapping': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --install /home/badri/new_ws/build/mapping
+[0.216s] -- Install configuration: ""
+[0.216s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/launch
+[0.216s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/launch/bringup.launch.py
+[0.217s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/launch/3d_map.launch.py
+[0.217s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/worlds
+[0.217s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/worlds/maze1.world
+[0.217s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/map
+[0.218s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/map/maze_map.pgm
+[0.218s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/map/map_3d.ply
+[0.218s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/map/maze_map.yaml
+[0.218s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/ament_index/resource_index/package_run_dependencies/mapping
+[0.219s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/ament_index/resource_index/parent_prefix_path/mapping
+[0.219s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/environment/ament_prefix_path.sh
+[0.219s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/environment/ament_prefix_path.dsv
+[0.220s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/environment/path.sh
+[0.220s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/environment/path.dsv
+[0.220s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/local_setup.bash
+[0.220s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/local_setup.sh
+[0.220s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/local_setup.zsh
+[0.221s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/local_setup.dsv
+[0.221s] -- Installing: /home/badri/new_ws/install/mapping/share/mapping/package.dsv
+[0.221s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/ament_index/resource_index/packages/mapping
+[0.221s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/cmake/mappingConfig.cmake
+[0.222s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/cmake/mappingConfig-version.cmake
+[0.222s] -- Up-to-date: /home/badri/new_ws/install/mapping/share/mapping/package.xml
+[0.224s] Invoked command in '/home/badri/new_ws/build/mapping' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/badri/ros2_ws/install/casadi_mpc:/opt/ros/humble /usr/bin/cmake --install /home/badri/new_ws/build/mapping
