@@ -8,8 +8,8 @@
 class PathPlanning : public rclcpp::Node {
 public:
   PathPlanning() : Node("path_planning_node"),
-                   use_gridsweep_(false),
-                   use_astar_(true),
+                   use_gridsweep_(true),
+                   use_astar_(false),
                    use_rrt_(false) {  // Set your algorithm flags here
     RCLCPP_INFO(this->get_logger(), "Performing Path Planning Search");
 
